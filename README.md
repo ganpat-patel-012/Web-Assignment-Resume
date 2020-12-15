@@ -1,4 +1,4 @@
-# Web Assignment Reusme
+# Web Assignment - Reusme
 This was a small assignment given by my professor.<br>
 I have created a simple HTML/CSS website as my resume. 
 
